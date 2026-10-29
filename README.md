@@ -1,4 +1,5 @@
 <h1 align="center">Nan An</h1>
+<p align="center">Email: <a href="mailto:an742695@163.com">an742695@163.com</a></p>
 <h3 align="center">AI Application &amp; Agent Backend Engineer</h3>
 <p align="center"><sub>Production AI Systems · Evidence-Grounded Agents · Reliable Backend Engineering</sub></p>
 
@@ -35,4 +36,3 @@ Long-Video Benchmark Co-author</p>
 
 [**Featured Work**](https://github.com/Ernesto12139/ConvictionDesk) · [**Publications**](https://aclanthology.org/2026.emnlp-main.811/) · [**Contact**](mailto:an742695@163.com)
 
-Email: [an742695@163.com](mailto:an742695@163.com)
