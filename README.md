@@ -1,5 +1,5 @@
 <h1 align="center">Nan An</h1>
-<p align="center"><strong>AI Application &amp; Agent Backend Engineer</strong></p>
+<h3 align="center">AI Application &amp; Agent Backend Engineer</h3>
 <p align="center"><sub>Production AI Systems · Evidence-Grounded Agents · Reliable Backend Engineering</sub></p>
 
 ---
@@ -10,19 +10,19 @@
 <h3>Experience</h3>
 <p><strong>Anker Innovations</strong><br>
 AI Application Engineering · Intern</p>
-<p><sub>Agentic BI integration, cross-service field-level permissions, AI analysis context and production validation.</sub></p>
+<p>Agentic BI integration, cross-service field-level permissions, AI analysis context and production validation.</p>
 <p><strong>Jushuitan</strong><br>
 Backend Engineering · SaaS</p>
-<p><sub>C# / ASP.NET Core / SQL Server backend development.</sub></p>
+<p>C# / ASP.NET Core / SQL Server backend development.</p>
 </td>
 <td width="50%" valign="top">
 <h3>Engineering &amp; Research</h3>
 <p><strong><a href="https://github.com/Ernesto12139/ConvictionDesk">ConvictionDesk</a></strong><br>
 Evidence-Grounded Research Agent</p>
-<p><sub>Typed tool calling, point-in-time validation, optional read-only MCP and reproducible tests. Keyless demo; live integrations experimental.</sub></p>
+<p>Typed tool calling, point-in-time validation, optional read-only MCP and reproducible tests. Keyless demo; live integrations experimental.</p>
 <p><strong><a href="https://aclanthology.org/2026.emnlp-main.811/">EMNLP 2026 Main</a></strong><br>
 Long-Video Benchmark Co-author</p>
-<p><sub>KnowMeBenchV2 · Benchmark data and evaluation construction.</sub></p>
+<p>KnowMeBenchV2 · Benchmark data and evaluation construction.</p>
 </td>
 </tr>
 </table>
@@ -33,6 +33,6 @@ Long-Video Benchmark Co-author</p>
 
 ---
 
-[**Featured Work**](https://github.com/Ernesto12139/ConvictionDesk) · [**Publications**](https://aclanthology.org/2026.emnlp-main.811/) · [**Contact**](https://github.com/Ernesto12139)
+[**Featured Work**](https://github.com/Ernesto12139/ConvictionDesk) · [**Publications**](https://aclanthology.org/2026.emnlp-main.811/) · [**Contact**](mailto:an742695@163.com)
 
-<p align="right"><a href="https://github.com/Ernesto12139">GitHub</a></p>
+Email: [an742695@163.com](mailto:an742695@163.com)
